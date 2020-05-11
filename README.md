@@ -1,0 +1,3 @@
+# fitnessCourses
+
+/api - django rest
